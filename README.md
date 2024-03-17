@@ -2,6 +2,8 @@
 
 Bu proje, bir veteriner kliniği veya merkezi için geliştirilmiş olan örnek bir yönetim sistemidir. Spring Boot ve katmanlı mimari kullanılarak oluşturulan backend projesinin React.js kullanılarak oluşturulmuş frontend kısmıdır.
 
+Netlify üzerinde canlı olarak görüntülemek için [buraya tıklayın](https://vetsystem.netlify.app).
+
 ## Genel Bakış
 
 Vet App Frontend, veterinerlerin ve personelin hayvan sahipleri, randevular, aşı kayıtları, doktorlar ve hayvanlar üzerinde yönetim işlemlerini gerçekleştirebildiği bir platformdur.
@@ -48,6 +50,8 @@ Uygulamayı başlattıktan sonra, tarayıcınızda `localhost:5173` adresine gid
 # Veterinary Management System Frontend
 
 This project is the frontend part of an example management system developed for a veterinary clinic or center. It is built using React.js, complementing the backend project created with Spring Boot and a layered architecture.
+
+To view live on Netlify [click here](https://vetsystem.netlify.app).
 
 ## Overview
 
