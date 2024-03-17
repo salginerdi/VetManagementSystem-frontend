@@ -1,0 +1,32 @@
+nav {
+  display: flex;
+  gap: 1rem;
+  padding: 10px;
+}
+
+ul li {
+  list-style: none;
+}
+
+button a {
+  color: white;
+  text-decoration: none;
+  margin-left: 60px;
+}
+
+.active {
+  font-weight: bold;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ccc;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 99, 71, 0.7);
+  border-radius: 5px;
+}
